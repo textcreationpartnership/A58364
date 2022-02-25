@@ -1,0 +1,406 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Elegy, an acrostick, and also an anagram, on the death of that faithful and worthy minister and servant of God, Mr. Joseph Caryl</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58364</idno>
+            <idno type="STC">Wing R70A</idno>
+            <idno type="STC">ESTC R39738</idno>
+            <idno type="EEBO-CITATION">18478136</idno>
+            <idno type="OCLC">ocm 18478136</idno>
+            <idno type="VID">107825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58364)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 107825)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1642:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Elegy, an acrostick, and also an anagram, on the death of that faithful and worthy minister and servant of God, Mr. Joseph Caryl</title>
+               </titleStmt>
+               <extent>1 broadside.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Rowland Reynolds ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Caryl, Joseph, 1602-1673 --  Poetry.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:107825:1"/>
+            <head>An Elegy, and Acroſtick, and alſo an Anagram, On the Death of that Faithful and worthy Miniſter and Servant of GOD, M<hi rend="sup">R</hi>. JOSEPH CARYL.</head>
+            <lg>
+               <l>
+                  <hi>REader,</hi> Expect no quaint heroick Verſe</l>
+               <l>Of Mine, ſhould deck Renowned <hi>Caryl's</hi> Herſe;</l>
+               <l>Expect not from my Tender Years ſuch Rymes,</l>
+               <l>As from the Learned Sages of the Times:</l>
+               <l>I having yet, not <hi>Thrice Five Winters</hi> told.</l>
+               <l>But blame me not as being over-bold;</l>
+               <l>What though the ſubject be Divine, and fit;</l>
+               <l>Moſt ſtable, ſolid, and accurate Wits</l>
+               <l>They all were Silent, therefore I ſtep't forth</l>
+               <l>To Weep o're, and Lament our loſs in's Worth.</l>
+            </lg>
+            <lg>
+               <l>SOrrow, and Affection's my <hi>Aonian</hi> band;</l>
+               <l>His Worth, our Loſs, my fork'd-<hi>Parnaſſus</hi> and</l>
+               <l>My <hi>Helicon;</hi> and my <hi>Caſtalian</hi>-Springs,</l>
+               <l>The Word of God, the ſupream King of Kings,</l>
+            </lg>
+            <lg>
+               <l>Oh Firſt, and Laſt, All's all, <hi>Tri-um-Jehove!</hi>
+               </l>
+               <l>Thou God of Goodneſs, Wiſdom, Power, and Love,</l>
+               <l>Aſſiſt my poor, my weak, and feeble Quill,</l>
+               <l>And give me Strength, as thou haſt gave me Will;</l>
+               <l>That my Stentorian-Voice may Stellify</l>
+               <l>
+                  <hi>Caryl</hi> on Earth, who's Glorify'd on High.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>CARYL's</hi> extinct! reſplendent <hi>Phebus,</hi> How</l>
+               <l>Is't, that thou dreadeſt not thy downfal now?</l>
+               <l>Our Sun is ſet! in greatneſs, influence,</l>
+               <l>And glory far beyond the reach of Sence:</l>
+               <l>In all the Good that e're thou do'ſt, he did</l>
+               <l>Excel, as thou the Stars in Day-time hid.</l>
+            </lg>
+            <lg>
+               <l>His Influence, was Sp'ritual; and did tend</l>
+               <l>T'Eternity: but thine with Time muſt end.</l>
+            </lg>
+            <lg>
+               <l>Ceaſe thy Diurnal courſe; Now, now there needs</l>
+               <l>A ſwift retraction of thy fiery-ſteeds.</l>
+               <l>Either extinguiſh, or eclipſe thy Light,</l>
+               <l>That we may Mourn in obſcure ſhades of night.</l>
+            </lg>
+            <lg>
+               <l>It is well known, his greateſt Work hath been,</l>
+               <l>To make Chriſt Lovely, and diſparage Sin:</l>
+               <l>He always labour'd, all men to convince</l>
+               <l>O'th dang'rous ſtratagems of the Stygian-Prince.</l>
+               <l>He did declare the Mind and Will of GOD,</l>
+               <l>And ſhew'd the meaning of his Word and Rod:</l>
+               <l>He was another <hi>Cato;</hi> he reprov'd</l>
+               <l>All Vice, impartially, (as't him behov'd.)</l>
+            </lg>
+            <lg>
+               <l>He was our Faithful Sentinel, he ſtood</l>
+               <l>Upon his Watch-tow're, alwayes for our good.</l>
+            </lg>
+            <lg>
+               <l>He Warn'd us of, he Labour'd too, Shew'd how</l>
+               <l>We might Prevent, or elſe Prepare for now</l>
+               <l>Come, or approaching Judgments: Now he's gone,</l>
+               <l>God may command the reſt to let's alone.</l>
+            </lg>
+            <lg>
+               <l>He was a Pillar, he did ſupport the Frame</l>
+               <l>O'th glorious Houſe, we nominate by God's Name:</l>
+               <l>But now He's fal'n, we may ſuſpect God will</l>
+               <l>Go on t'remove our Chief Supporters ſtill.</l>
+            </lg>
+            <lg>
+               <l>His Doctrine was Subſtantial, alwayes founded,</l>
+               <l>Clearly demonſtrated, and firmly grounded</l>
+               <l>Upon the Sacred Word of God, which doth</l>
+               <l>Admit no Falſity, the Word of Truth;</l>
+               <l>Which faithfully, and in veracity,</l>
+               <l>He ſuited to each ones capacity.</l>
+            </lg>
+            <lg>
+               <l>He wiſely did diſtribute unto all.</l>
+               <l>The ſhare and portion to their lot did fall:</l>
+               <l>Reproof, and Terror, to thoſe to whom 'twas due;</l>
+               <l>Advice, and Counſel, whom't belong'd unto;</l>
+               <l>Comfort and Cons'lation he did divide</l>
+               <l>To whom 'twas due; and unto none beſide:</l>
+               <l>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e meted out to all their due; he was</l>
+               <l>A <hi>Boanerges,</hi> and a <hi>Barnabas.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>He Liv'd according unto what he Teach'd,</l>
+               <l>And put in Practice th'Doctrine that he Preach'd</l>
+               <l>How Holy, and Exemplary was his Life!</l>
+               <l>How Meek, how Humble, Patient, hating Strife!</l>
+               <l>How Publick-ſpirited, Watchful, Laborious!</l>
+               <l>How Wiſe, and not Erroneous, nor Cenſorious!</l>
+            </lg>
+            <lg>
+               <l>At laſt, without fear, dread, deſpair, or horror,</l>
+               <l>He fac't, and overcame the King of Terror.</l>
+            </lg>
+            <lg>
+               <l>And as to Gifts, and Parts, God had beſtow'd</l>
+               <l>Them plenteouſly upon him, and endow'd</l>
+               <l>Him with a ſtudious, ſharp, and ingenious Wit:</l>
+               <l>Obſcureſt things were eaſie unto it.</l>
+            </lg>
+            <lg>
+               <l>A vaſt-retaining Mem'ry, and a wiſe</l>
+               <l>And prudent Heart, (with noble Faculties;)</l>
+               <l>His Will conform'd to God's and his Affections</l>
+               <l>Were Regular; ſo alſo were his Actions.</l>
+            </lg>
+            <lg>
+               <l>And as to Learning, th'Univerſity</l>
+               <l>Know'th well his progreſs and proficiency:</l>
+               <l>He was a walking-Library, paſt Dimenſion</l>
+               <l>Of Vulgar and of common Apprehenſion:</l>
+               <l>Witneſs that learned Expoſition fame</l>
+               <l>Hath (to eternize his ne're-dying Name)</l>
+               <l>Made famous th'row-out <hi>Europe;</hi> ev'n 'mongſt thoſe,</l>
+               <l>Who are the Scriptures, and the Churches foes.</l>
+               <l>By which Twelve Books on <hi>Job,</hi> he did obtain</l>
+               <l>Such Honour, as but few (or none) do gain.</l>
+            </lg>
+            <lg>
+               <l>And thus confus'dly, I've <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n brief run o're,</l>
+               <l>Part of his Worth; but now I'le add no more:</l>
+               <l>For ſome will not believe't, but will eſteem him</l>
+               <l>Of little worth, and greatly flatter'd deem him:</l>
+               <l>And ſuch I'le leave to theſe their thoughts of heart,</l>
+               <l>And come a little to th' <hi>Elegiack</hi> part.</l>
+            </lg>
+            <lg>
+               <l>According to his Worth, ſo is our Croſs,</l>
+               <l>And therefore great, yea, very great's our Loſs.</l>
+               <l>True; in our time, brave Worthy's do reſort</l>
+               <l>Unto the Happy, to the Heav'nly Court:</l>
+               <l>But wherefore <hi>CARYL,</hi> did'ſt thou thus bereave us</l>
+               <l>Of ſo great Good, thus ſuddenly to leave us?</l>
+            </lg>
+            <lg>
+               <l>But ſtay, ſad Genius! Call back that Expreſſion:</l>
+               <l>He's tak'n away, becauſe of our Tranſgreſſion.</l>
+               <l>The Sins that he Reprov'd, have call'd away</l>
+               <l>Him from his Work, in this moſt Needful day.</l>
+            </lg>
+            <lg>
+               <l>Oh that all Heads were Waters, and all Eyes</l>
+               <l>Fountains of Tears! That our Heart-rending Cryes,</l>
+               <l>Commix't with Sighs, &amp; Groans, &amp; Tears might drownd</l>
+               <l>This World of Sin, leſt it this World Confound.</l>
+            </lg>
+            <lg>
+               <l>Come Holy Mourners, you that have the Arts</l>
+               <l>Of Weeping Eyes, and broken Bleeding-Hearts.</l>
+               <l>Come, here's Occaſion for your Lamentation;</l>
+               <l>
+                  <hi>CARYL's</hi> expir'd! that ſon of Conſolation</l>
+               <l>And Thunder: Come, weep o're, weep o're the Crimes</l>
+               <l>Of theſe Heart-breaking, theſe Rebellious times.</l>
+            </lg>
+            <lg>
+               <l>Weep Rocks, weep Mountains, now more mild by far</l>
+               <l>Than many Men, in this baſe Ir'n age are.</l>
+            </lg>
+            <lg>
+               <l>But <hi>CARYL</hi> is not Dead; his Name ſhall live</l>
+               <l>Throughout all Ages: Fate it ſhall ſurvive.</l>
+            </lg>
+            <lg>
+               <l>He having done his Work, is fal'n Aſleep;</l>
+               <l>(Ah! Can our Adamantine hearts not Weep!)</l>
+               <l>For when th'Arch-Angels Trump ſhall ſound from Heav'n,</l>
+               <l>When Sun, Moon, Stars, are of their Light bereav'n;</l>
+               <l>When all, this all, by Fire ſhall be deſtroy'd;</l>
+               <l>And all be ſtripp'd of all they have enjoy'd:</l>
+               <l>When Jeſus Chriſt the Lamb, turn'd Lyon, ſhall</l>
+               <l>Appear in Glorious Majeſty to all:</l>
+               <l>When many, with Dread and Deſpair ſhall fly</l>
+               <l>To Rocks and Mountains, to Fall on them: Cry</l>
+               <l>To them for ſhelter; think'ng to ſhun him there</l>
+               <l>Who ſee's, and knows at all times, ev'ry where,</l>
+               <l>All things, and perſons;) ſay'ng, This is the Day</l>
+               <l>Wherein his Indignation Hee'l Diſplay.</l>
+            </lg>
+            <lg>
+               <l>A bleſs'd Encomion! <hi>CARYL</hi> will then receive</l>
+               <l>From him that ſits on th'Throne; then, then! he'l have</l>
+               <l>A glorious body; and re-entertain</l>
+               <l>His Better-part, never to part again;</l>
+            </lg>
+            <lg>
+               <l>I mean his Soul, which ev'n now doth poſſeſs</l>
+               <l>Thoſe endleſs Joyes, which never will be leſs.)</l>
+            </lg>
+            <lg>
+               <l>The Righteous Periſh, and are taken away;</l>
+               <l>None lay't to Heart, nor yet Conſider, they</l>
+               <l>Are taken from approaching Ills and Dangers;</l>
+               <l>But altogether to Gods Word are Strangers.</l>
+            </lg>
+            <lg>
+               <l>And ſince 'tis ſo, what Judgment will, or ſhall,</l>
+               <l>Sinful, unfruitful <hi>England,</hi> next befall.</l>
+               <l>Oh <hi>Brutus</hi> heirs! this, and ſuch loſſes tend</l>
+               <l>To future Judgments, if ye don't Amend.</l>
+               <l>God for our Sins may puniſh ſeven times more,</l>
+               <l>With greater Judgments; oftner than before.</l>
+               <l>And oh! what horrid Judgment muſt it be,</l>
+               <l>That muſt be worſe full Seven-times, than thoſe three</l>
+               <l>
+                  <hi>Tremendous</hi>-Judgments, <hi>Plague,</hi> and <hi>Fire,</hi> and <hi>Sword?</hi>
+               </l>
+               <l>And this God will Inflict, he ſaith in's Word.</l>
+            </lg>
+            <lg>
+               <l>Sure God will vex us in his ſore Diſpleaſure;</l>
+               <l>And make his Wrath wax hot; open his treaſure</l>
+               <l>Of Indignation; which he did prepare,</l>
+               <l>For thoſe who <hi>Live</hi> and <hi>Die</hi> without his Fear.</l>
+            </lg>
+            <lg>
+               <l>I'le not determine, but I'le labour ſtill</l>
+               <l>To ſubmit to, and acquieſce with, his Will.</l>
+            </lg>
+            <lg>
+               <l>Come <hi>Reader,</hi> come; on Truſt take Tears and Groans,</l>
+               <l>That we like <hi>Niobe,</hi> may Weep to Stones.</l>
+               <l>'Tis Famous <hi>CARYL,</hi> who ſerv'd us in the ſtead</l>
+               <l>Of <hi>Argus,</hi> and <hi>Briareus;</hi> now is Dead!</l>
+            </lg>
+            <div type="poem">
+               <head>An Acroſtick.</head>
+               <lg>
+                  <l>
+                     <hi>JS CARYL</hi> Dead! Or is't a fictious Fame?</l>
+                  <l>Or hath her laviſh-trumpe miſtook his Name?</l>
+                  <l>Say, Is it he, or not? Ah yes, 'tis Hee;</l>
+                  <l>E v'n that beloved, flouriſhing, fruitful Tree!</l>
+                  <l>Pray then? If God cauſe Green trees to expire,</l>
+                  <l>How ſhall we Dry ones 'ſcape the axe or fire?</l>
+               </lg>
+               <lg>
+                  <l>Can <hi>CARYL</hi> Die! who liv'd ſo much Reſpected;</l>
+                  <l>And can our flinty hearts not be Affected?</l>
+                  <l>Rend Hearts (not Graments;) never urge a Why,</l>
+                  <l>You may know th'cauſe: Sorrow doth ſeem t'reply,</l>
+                  <l>Loe, Famous <hi>CARYL's</hi> Dead! and you muſt ſhort<g ref="char:EOLhyphen"/>ly Die.</l>
+               </lg>
+            </div>
+            <div type="poem">
+               <head>JOSEPH CARYL, <hi>Anagram</hi> RIS' HOLY-PEAC'</head>
+               <lg>
+                  <l>WE hear of War, which often Deſolates</l>
+                  <l>And mighty Kingdoms oft Depopulates:</l>
+                  <l>Oh that in th'midſt of War (if War don't Ceaſe)</l>
+                  <l>There might <hi>RIS',</hi> and continue <hi>HOLY-PEAC.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>God hath been long contending with our Land,</l>
+                  <l>To make us Humble, under's mighty Hand:</l>
+                  <l>For when we're moſt Debas'd in our own Eyes,</l>
+                  <l>Then <hi>HOLY-PEAC'</hi> we may expect to <hi>RIS'.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>In th'latter times, 'tis ſaid, that <hi>HOLY-PEAC'</hi>
+                  </l>
+                  <l>Shold <hi>RIS'</hi> up; and ſhould more and more increaſe:</l>
+                  <l>Though <hi>HOLY-PEAC</hi>eful <hi>CARYL</hi>'s call'd away;</l>
+                  <l>This <hi>HOLY</hi> bleſſed <hi>PEAC'</hi> may <hi>RIS',</hi> and ſtay.</l>
+               </lg>
+               <byline>BY <hi>S. R.</hi> Aged 14 years 3/4 Aug. 1673.</byline>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>Rowland Reynolds</hi> at the <hi>Sun</hi> and <hi>Bible</hi> in the <hi>Poultrey,</hi> 1673.71.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
